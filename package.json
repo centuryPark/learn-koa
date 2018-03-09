@@ -1,0 +1,22 @@
+{
+  "name": "learn-koa",
+  "version": "1.0.0",
+  "description": "node+koa+nunjucs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:centuryPark/learn-koa.git"
+  },
+  "author": "gongyuan",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.0"
+  }
+}
